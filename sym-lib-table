@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 6502)(type Legacy)(uri /Users/markusklink/Projects/hardware/kicadlibs/6502-kicad-library/65xx.lib)(options "")(descr ""))
+  (lib (name Arduino)(type Legacy)(uri /Users/markusklink/Projects/hardware/kicadlibs/arduino-kicad-library/arduino.lib)(options "")(descr ""))
+)
