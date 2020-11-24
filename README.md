@@ -18,6 +18,13 @@
 
 ![Prototype Board](6502-bb-render.png)
 
+### Status
+
+| Version | Status | Comment |
+|---------|--------|---------|
+| v1.0.0  | unverified | boards send for production |
+
+
 ## Memory maps
 
 | Type | From | To       | Comments |
